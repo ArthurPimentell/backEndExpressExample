@@ -1,0 +1,15 @@
+{
+    "name": "crud",
+    "version": "1.0.0",
+    "description": "CRUD based http request.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Arthur Pimentel",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
